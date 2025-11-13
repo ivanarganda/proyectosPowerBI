@@ -1,0 +1,47 @@
+{
+  "name": "Slicer Sin Bordes Ni Valores",
+  "visualStyles": {
+    "slicer": {
+      "*": {
+        "general": [
+          {
+            "outline": "None"
+          }
+        ],
+	"input": [
+        {
+          "background": {
+            "solid": {
+              "color": "#FFFFFF"
+            }
+          },
+          "borderColor": {
+            "solid": {
+              "color": "#FFFFFF"
+            }
+          }
+        }
+      	],
+        "items": [
+          {
+            "fontColor": {
+              "solid": {
+                "color": "#cccccc"
+              }
+            }
+          }
+        ],
+        "title": [
+          {
+            "show": false
+          }
+        ],
+        "header": [
+          {
+            "show": false
+          }
+        ]
+	}
+    }
+  }
+}

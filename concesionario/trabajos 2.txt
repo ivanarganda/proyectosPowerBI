@@ -1,0 +1,35 @@
+Investiga como se hace una tabla calendario con DAX 
+(es entenderlo, por eso dice INVESTIGA)
+
+Practica_3 =
+//usa sumx
+cuanto es el total de margen beneficio de los bmw de Norte (valor venta - precio coche)
+
+
+Practica_4 =
+Cuantas Filas vacías hay en fecha devolución
+
+
+Practica_5 =
+Cuantas Filas vacías hay en fecha devolución, para los audi color azul
+
+Practica_6 = Propuesta Cabra
+Practica_7 = Propuesta Angel 
+Practica_8 = Propuesta Ivan
+Practica_9 = Propuesta Mikel
+Practica_10 = Propuesta Sofia
+Practica_11 = Propuesta Rocio
+
+Por hacer (visualizaciones):
+
+Crea una tabla y muestra las ventas de todos los días del mes seleccionado y año seleccionado 
+y lo mismo para su periodo anterior (debe ser dinamico)
+debes tener filtros externos (año, mes) para poder comprobar su dinamismo
+
+Crea una KPI con los valores de:
+	Margen Beneficio
+	Cantidad de coches vendidos
+	Cantidad de coches devueltos
+
+para cada uno de ellos el comparativo con el año anterior
+y hacer % de diferencia que hay entre ellos
